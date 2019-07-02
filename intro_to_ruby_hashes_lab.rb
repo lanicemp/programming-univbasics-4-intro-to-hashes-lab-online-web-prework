@@ -1,5 +1,6 @@
 def new_hash
-  hash = []
+  hash = ["key" => "value"]
+  
 end
 
 def my_hash
